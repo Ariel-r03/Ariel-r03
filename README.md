@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a front-end developer, I specialize in the ReactJS library to build and design web pages and systems. I create high quality and reusable components, and I also used different CSS frameworks like Bootstrap and Tailwind, as well as various tools like figma to wireframe and design user interfaces. I am a technology-oriented person, my biggest passion is software development. I also enjoy learning new things to improve my schools.
+As a front-end developer, I specialize in the ReactJS library to build and design web pages and systems. I create high quality and reusable components, and I also used different CSS frameworks like Bootstrap and Tailwind, as well as various tools like figma to wireframe and design user interfaces. I am a technology-oriented person, my biggest passion is software development. I also enjoy learning new things to improve my skills.
 
 
 ## 🌐 Socials:
